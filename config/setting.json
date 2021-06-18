@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://nuoyafz.github.io",
+    "email": "723167066@qq.coom",
+    "platform": "github",
+    "repository": "nuoyafz.github.io",
+    "token": "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",
+    "username": "nuoyafz"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
